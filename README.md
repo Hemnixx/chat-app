@@ -1,1 +1,1 @@
-# chat-app
+This is a beginner-friendly real-time chat application built using React.js for the frontend and Node.js with WebSocket for the backend. Users can join the chat, send messages, and see them appear instantly on all connected clients – all without page reloads.
